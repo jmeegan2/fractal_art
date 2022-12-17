@@ -1,0 +1,1 @@
+just a simple fractal art program in java, just trying this out using the Mandelbrot Set
